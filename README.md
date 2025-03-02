@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshat Kapoor
 - 👀 I’m interested in learning new programming languages and work on different projects.
-- 🌱 I’m currently looking full time oppurtunities 
+- 🌱I'm currently seeking full-time opportunities.
 - 📫 You can contact me at akshatkapoor62@gmail.com
 
 <!---
