@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshat Kapoor
 - 👀 I’m interested in learning new programming languages and work on different projects.
-- 🌱 I’m currently learning React framework
+- 🌱 I’m currently looking full time oppurtunities 
 - 📫 You can contact me at akshatkapoor62@gmail.com
 
 <!---
